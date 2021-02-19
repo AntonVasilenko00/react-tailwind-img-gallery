@@ -1,4 +1,4 @@
-№ https://antonvasilenko00.github.io/react-tailwind-img-gallery/
+# https://antonvasilenko00.github.io/react-tailwind-img-gallery/
 
 
 # Getting Started with Create React App
